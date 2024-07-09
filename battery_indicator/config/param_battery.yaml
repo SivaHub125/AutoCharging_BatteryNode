@@ -1,0 +1,3 @@
+critical_percent : 5
+full_battery : 100
+warning_percentage : 20
